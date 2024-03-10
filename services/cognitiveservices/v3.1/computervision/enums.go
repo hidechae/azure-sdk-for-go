@@ -75,7 +75,7 @@ const (
 
 // PossibleOcrDetectionLanguageValues returns an array of possible values for the OcrDetectionLanguage const type.
 func PossibleOcrDetectionLanguageValues() []OcrDetectionLanguage {
-	return []OcrDetectionLanguage{De, En, Es, Fr, It, Nl, Pt}
+	return []OcrDetectionLanguage{De, En, Es, Fr, It, Nl, Pt, Ja}
 }
 
 // OcrLanguages enumerates the values for ocr languages.
