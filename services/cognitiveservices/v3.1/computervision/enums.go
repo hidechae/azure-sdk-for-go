@@ -69,6 +69,8 @@ const (
 	Nl OcrDetectionLanguage = "nl"
 	// Pt ...
 	Pt OcrDetectionLanguage = "pt"
+	// Ja ...
+	Ja OcrDetectionLanguage = "ja"
 )
 
 // PossibleOcrDetectionLanguageValues returns an array of possible values for the OcrDetectionLanguage const type.
